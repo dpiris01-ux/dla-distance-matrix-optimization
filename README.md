@@ -162,7 +162,7 @@ This allows running multiple simulations in parallel without correlations.
 
 Compile using gcc:
 
-gcc -O3 dla_opt.c -lm -o dla
+gcc -mcmodel=large -Wall -O3 dla_opt.c -lm -o dla
 
 ---
 
