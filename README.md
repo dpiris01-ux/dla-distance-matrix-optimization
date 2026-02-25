@@ -1,5 +1,7 @@
 # Diffusion Limited Aggregation (DLA) – Optimized C Implementation
 
+![DLA cluster](image.png)
+
 High-performance simulation of Diffusion Limited Aggregation (DLA) written in C.  
 The code implements several algorithmic optimizations that allow large off-lattice clusters to be simulated efficiently while collecting detailed statistical information about the growing interface.
 
