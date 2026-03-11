@@ -925,7 +925,7 @@ int main(int argc, char *argv[]) {
                 }
 
                 mr1_active /= (long double)active_zone_radii_count;
-                mr2_active /= (long double)active_zonerdii_count;
+                mr2_active /= (long double)active_zone_radii_count;
                 mr3_active /= (long double)active_zone_radii_count;
                 mr4_active /= (long double)active_zone_radii_count;
 
